@@ -28,15 +28,16 @@
 
 ### About me:
 
+
 <table>
   <tr>
-    <!-- Left column: About me text -->
     <td style="width: 60%; vertical-align: top;">
-      Hey there, happy meeting you !!  
+      Hey there, happy to connect with you!  
       <ul>
-        <li>🧑‍🎓 I'm a 4<sup>th</sup> year B.Tech Computer Science from Vellore Institute of Technology, India.</li>
-        <li>👩‍💻 My technical interests include Software Development and Engineering and Data Analytics.</li>
-        <li>👍 I thrive when collaborating with diverse teams and love diving into emerging technologies. Tackling challenging problems is something I truly enjoy!</li>
+        <li>🎓 I'm pursuing B.Tech in Computer Science & Engineering from VIT Bhopal (2022–2026), CGPA: 9.15.</li>
+        <li>📊 Passionate about Data Analytics, Software Development, and Cloud Technologies.</li>
+        <li>💻 Skilled in Power BI, SQL, Python, React, Node.js, and AWS.</li>
+        <li>🚀 Love solving real-world problems through impactful projects and collaboration.</li>
       </ul>
     </td>
     <td style="width: 40%; text-align: center;">
@@ -44,6 +45,7 @@
     </td>
   </tr>
 </table>
+
 
 
 
