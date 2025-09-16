@@ -161,7 +161,7 @@
 
 <div align="center">
   <picture>
-    <source media="(max-width: 768px)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nefrttPrabhu&layout=compact&theme=tokyonight&border_color=6366f1&hide_title=true">
+    <source media="(max-width: 768px)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Nehahahah&layout=compact&theme=tokyonight&border_color=6366f1&hide_title=true">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nehahahah&layout=compact&theme=tokyonight&border_color=6366f1" alt="Top Languages"/>
   </picture>
 </div>
