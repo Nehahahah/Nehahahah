@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  <h1>👨‍💻 Full-Stack Developer | 🌟 Data Analyst</h1>
+  <h1>👨‍💻 Full-Stack Developer | ☕ Java Enthusiast | 🌟 Data Analyst</h1>
   <h3>🚀 Transforming Ideas into Scalable Digital Solutions</h3>
   
   <p>
@@ -35,7 +35,7 @@
       Hey there, happy meeting you !!  
       <ul>
         <li>🧑‍🎓 I'm a 4<sup>th</sup> year B.Tech Computer Science from Vellore Institute of Technology, India.</li>
-        <li>👩‍💻 My technical interests include Software Development and Engineering and Data Analytics.</li>
+        <li>👩‍💻 My technical interests include Software Development Engineering and Data Analytics.</li>
         <li>👍 I thrive when collaborating with diverse teams and love diving into emerging technologies. Tackling challenging problems is something I truly enjoy!</li>
       </ul>
     </td>
@@ -170,9 +170,9 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshit-singh-843aa2251/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Akshit_1204/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshitsinghh.2504@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neha-pal-student)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/_Neha_Pal_/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:11a.neha.pal@gmail.com)
 
 <br>
 
@@ -199,7 +199,7 @@
 
 
 <!--
-**akshit040504/akshit040504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Nehahahah/Nehahahah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
