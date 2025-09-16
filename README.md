@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  <h1>👨‍💻 Full-Stack Developer | ☕ Java Enthusiast | 🌟 Data Analyst</h1>
+  <h1>👨‍💻 Full-Stack Developer | 🌟 Data Analyst</h1>
   <h3>🚀 Transforming Ideas into Scalable Digital Solutions</h3>
   
   <p>
@@ -35,7 +35,7 @@
       Hey there, happy meeting you !!  
       <ul>
         <li>🧑‍🎓 I'm a 4<sup>th</sup> year B.Tech Computer Science from Vellore Institute of Technology, India.</li>
-        <li>👩‍💻 My technical interests include Software Development Engineering and Data Analytics.</li>
+        <li>👩‍💻 My technical interests include Software Development and Engineering and Data Analytics.</li>
         <li>👍 I thrive when collaborating with diverse teams and love diving into emerging technologies. Tackling challenging problems is something I truly enjoy!</li>
       </ul>
     </td>
@@ -140,7 +140,7 @@
 
 ## 📊 Languages Used  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshit040504&layout=compact&theme=tokyonight&hide_border=true&title_color=6C63FF" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nehahahah&layout=compact&theme=tokyonight&hide_border=true&title_color=6C63FF" alt="Top Languages"/>
 </p>
 
 
@@ -149,20 +149,20 @@
 ## 🔥 GitHub Streak  
 <div align="center">
   <picture>
-    <source media="(max-width: 768px)" srcset="https://github-readme-stats.vercel.app/api?username=akshit040504&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=6366f1&hide_title=true">
-    <img src="https://github-readme-stats.vercel.app/api?username=akshit040504&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=6366f1" alt="GitHub Stats"/>
+    <source media="(max-width: 768px)" srcset="https://github-readme-stats.vercel.app/api?username=Nehahahah&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=6366f1&hide_title=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=Nehahahah&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=6366f1" alt="GitHub Stats"/>
   </picture>
 </div>
 
 <div align="center">
   <picture>
     <source media="(max-width: 768px)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nefrttPrabhu&layout=compact&theme=tokyonight&border_color=6366f1&hide_title=true">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshit040504&layout=compact&theme=tokyonight&border_color=6366f1" alt="Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nehahahah&layout=compact&theme=tokyonight&border_color=6366f1" alt="Top Languages"/>
   </picture>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshit040504&theme=tokyonight&border=6366f1" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nehahahah&theme=tokyonight&border=6366f1" alt="GitHub Streak"/>
 </div>
 
 
