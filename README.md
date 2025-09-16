@@ -29,22 +29,25 @@
 ### About me:
 
 
+
 <table>
   <tr>
     <td style="width: 60%; vertical-align: top;">
-      Hey there, happy to connect with you!  
+      Hi there 👋 Thanks for stopping by!  
       <ul>
-        <li>🎓 I'm pursuing B.Tech in Computer Science & Engineering from VIT Bhopal (2022–2026), CGPA: 9.15.</li>
-        <li>📊 Passionate about Data Analytics, Software Development, and Cloud Technologies.</li>
-        <li>💻 Skilled in Power BI, SQL, Python, React, Node.js, and AWS.</li>
-        <li>🚀 Love solving real-world problems through impactful projects and collaboration.</li>
+        <li>🎓 Pursuing B.Tech in Computer Science & Engineering @ VIT Bhopal (2022–2026) | CGPA: 9.15.</li>
+        <li>📊 Data Analyst & Full-Stack Developer passionate about transforming data into insights and ideas into solutions.</li>
+        <li>🔥 Consistently active on GitHub with growing streaks, building projects in analytics and development.</li>
+        <li>🛠️ Skills: Python, SQL, Power BI, Excel, React, Node.js, MongoDB, AWS, Git, GitHub.</li>
+        <li>🚀 I love solving real-world problems and learning new technologies.</li>
       </ul>
     </td>
     <td style="width: 40%; text-align: center;">
-      <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OWFkNm9zbW9yc3hhZG5hNTVzY2lneGZvemdwd2g1NThhNTNhNjQ1ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JqmupuTVZYaQX5s094/giphy.gif" width="250" alt="Coding Cat GIF"/>
+      <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="250" alt="Coding GIF"/>
     </td>
   </tr>
 </table>
+
 
 
 
@@ -193,7 +196,7 @@
   
   <h3>💡 "Every bug fixed is a tiny battle won against yourself." 💡</h3>
   
-  **⭐ Like what you see? Drop a star on my GitHub projects! ⭐**
+  **🌟 If you find my work interesting, feel free to connect or collaborate! 🌟**
 </div>
 
 
