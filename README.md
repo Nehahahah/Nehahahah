@@ -155,8 +155,9 @@
 
 ## 🔥 GitHub Streak
 <p align="center">
-  <img src="https://streak-stats-github-readme-streak-stats-team.vercel.app?user=Nehahahah&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.np-api-proxy.workers.dev?user=Nehahahah&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
+
 
 
 ## 🤝 **Let's Connect & Collaborate**
