@@ -143,23 +143,21 @@
 
 
 
-## 📊 Languages Used  
+## 📊 Languages Used
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nehahahah&layout=compact&theme=tokyonight&hide_border=true&title_color=6C63FF" alt="Top Languages"/>
+  <img src="https://github-readme-stats-github-readme-stats-team.vercel.app/api/top-langs/?username=Nehahahah&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-## 🔥 GitHub Stats  
-<div align="center">
-  <picture>
-    <source media="(max-width: 768px)" srcset="https://github-readme-stats.vercel.app/api?username=Nehahahah&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_title=true&hide_border=true">
-    <img src="https://github-readme-stats.vercel.app/api?username=Nehahahah&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
-  </picture>
-</div>
+## 🔥 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats-github-readme-stats-team.vercel.app/api?username=Nehahahah&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+</p>
 
-## 🔥 GitHub Streak  
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nehahahah&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
+## 🔥 GitHub Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Nehahahah&theme=tokyonight&hide_border=true" />
+</p>
+
 
 
 
